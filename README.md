@@ -4,23 +4,15 @@
 
 ### プログラミング言語
 
-- C
-- C++
-- Java
-- JavaScript
+- C, C++, Java, JavaScript
 
 ### フレームワークライブラリ
 
-- Tomcat
-- SpringBoot
+- Tomcat, SpringBoot
 
 ### ツール・プラットホーム
 
-- JavaVM
-- Docker
-- Kubernetes
-- AWS
-- Github Copilot
+- JavaVMi, Docker, Kubernetes, AWS, Github Copilot
 
 ## 最近興味があること
 
