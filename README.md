@@ -22,4 +22,4 @@
 
 - [チャットボットWebアプリ(FastAPI, LangChain)](https://github.com/nishiokaex/expo-chatbot)
 - [ゲームブック風Webアプリ(Hono, Cloudflare)](https://starwind-tale.pages.dev/)
-- [予約管理システム（予定）](https://my-booking-system.pages.dev/)
+- [予約管理システム](https://github.com/nishiokaex/booking-system-v1)
