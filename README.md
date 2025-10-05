@@ -20,6 +20,6 @@
 
 ## 個人開発
 
-- [チャットボットWebアプリ(FastAPI, LangChain、Vercel)](https://github.com/nishiokaex/expo-chatbot)
+- [チャットボットWebアプリ(FastAPI, LangChain, Vercel)](https://github.com/nishiokaex/expo-chatbot)
 - [ゲームブック風Webアプリ(Hono, Cloudflare)](https://starwind-tale.pages.dev/)
 - [予約管理システム](https://github.com/nishiokaex/booking-system-v1)
