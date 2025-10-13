@@ -4,15 +4,17 @@
 
 ### プログラミング言語
 
-- C, C++, Java, JavaScript
+- 業務：C, C++, Java, Go, JavaScript
+- 個人開発: Python, Flutter
 
 ### フレームワークライブラリ
 
-- Tomcat, SpringBoot
+- 業務：Tomcat, SpringBoot, React.js, MaterialUI
+- 個人開発: React Native, Hono
 
 ### ツール・プラットホーム
 
-- JavaVMi, Docker, Kubernetes, AWS, Github Copilot
+- 業務：JavaVMi, Docker, Kubernetes, AWS, Github Copilot
 
 ## 最近興味があること
 
