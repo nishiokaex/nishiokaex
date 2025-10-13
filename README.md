@@ -24,3 +24,4 @@
 
 - [チャットボットWebアプリ(FastAPI, LangChain, Vercel)](https://github.com/nishiokaex/expo-chatbot)
 - [ゲームブック風Webアプリ(Hono, Cloudflare)](https://starwind-tale.pages.dev/)
+- [複利計算アプリ(React Native for Web)](https://github.com/nishiokaex/compound-interest-calculator)
