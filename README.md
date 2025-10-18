@@ -10,11 +10,11 @@
 ### フレームワークライブラリ
 
 - 業務：Tomcat, SpringBoot, React.js, MaterialUI
-- 個人開発: React Native, Hono
+- 個人開発: Expo(React Native), Hono
 
 ### ツール・プラットホーム
 
-- 業務：JavaVMi, Docker, Kubernetes, AWS, Github Copilot
+- 業務：JavaVM, Docker, Kubernetes, AWS, Github Copilot
 
 ## 最近興味があること
 
