@@ -23,6 +23,5 @@
 ## 個人開発
 
 - [チャットボットWebアプリ(FastAPI, LangChain, Vercel)](https://github.com/nishiokaex/expo-chatbot)
-- [ゲームブック風Webアプリ(Hono, Cloudflare)](https://starwind-tale.pages.dev/)
 - [株価チャート表示アプリ(React Native for Web, Hono, Cloudflare)](https://github.com/nishiokaex/stock-chart)
 - [複利計算アプリ(React Native for Web)](https://github.com/nishiokaex/compound-interest-calculator)
